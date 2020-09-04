@@ -22,4 +22,4 @@ public class Exam22 {
 			break;
 		}
 	}
-}
+} 
