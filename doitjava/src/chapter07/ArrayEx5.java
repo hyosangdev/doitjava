@@ -21,6 +21,5 @@ public class ArrayEx5 {
 				System.out.println(array[i][j]);
 			}
 		}
-		
 	}
 }
